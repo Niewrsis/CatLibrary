@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35506.116 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KashoBogdan_CatApplication", "KashoBogdan_CatApplication\KashoBogdan_CatApplication.csproj", "{3B980037-90E7-49EF-AAE9-DA7F6D40E874}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KashoBogdan_CatFramework", "KashoBogdan_CatFramework\KashoBogdan_CatFramework.csproj", "{0589D4F1-4134-4808-AA87-1CCAC8B6B288}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3B980037-90E7-49EF-AAE9-DA7F6D40E874}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B980037-90E7-49EF-AAE9-DA7F6D40E874}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B980037-90E7-49EF-AAE9-DA7F6D40E874}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B980037-90E7-49EF-AAE9-DA7F6D40E874}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0589D4F1-4134-4808-AA87-1CCAC8B6B288}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0589D4F1-4134-4808-AA87-1CCAC8B6B288}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0589D4F1-4134-4808-AA87-1CCAC8B6B288}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0589D4F1-4134-4808-AA87-1CCAC8B6B288}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "KashoBogdan_CatApplication/1.0.0": {
+        "dependencies": {
+          "KashoBogdan_CatFramework": "1.0.0"
+        },
+        "runtime": {
+          "KashoBogdan_CatApplication.dll": {}
+        }
+      },
+      "KashoBogdan_CatFramework/1.0.0": {
+        "runtime": {
+          "KashoBogdan_CatFramework.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "KashoBogdan_CatApplication/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "KashoBogdan_CatFramework/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

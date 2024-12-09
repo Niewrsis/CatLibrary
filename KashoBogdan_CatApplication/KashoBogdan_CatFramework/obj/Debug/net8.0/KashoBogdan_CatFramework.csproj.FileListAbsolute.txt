@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\Cat\CatLibrary\KashoBogdan_CatApplication\KashoBogdan_CatFramework\bin\Debug\net8.0\KashoBogdan_CatFramework.deps.json
+C:\Users\User\source\repos\Cat\CatLibrary\KashoBogdan_CatApplication\KashoBogdan_CatFramework\bin\Debug\net8.0\KashoBogdan_CatFramework.dll
+C:\Users\User\source\repos\Cat\CatLibrary\KashoBogdan_CatApplication\KashoBogdan_CatFramework\bin\Debug\net8.0\KashoBogdan_CatFramework.pdb
+C:\Users\User\source\repos\Cat\CatLibrary\KashoBogdan_CatApplication\KashoBogdan_CatFramework\obj\Debug\net8.0\KashoBogdan_CatFramework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Cat\CatLibrary\KashoBogdan_CatApplication\KashoBogdan_CatFramework\obj\Debug\net8.0\KashoBogdan_CatFramework.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Cat\CatLibrary\KashoBogdan_CatApplication\KashoBogdan_CatFramework\obj\Debug\net8.0\KashoBogdan_CatFramework.AssemblyInfo.cs
+C:\Users\User\source\repos\Cat\CatLibrary\KashoBogdan_CatApplication\KashoBogdan_CatFramework\obj\Debug\net8.0\KashoBogdan_CatFramework.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Cat\CatLibrary\KashoBogdan_CatApplication\KashoBogdan_CatFramework\obj\Debug\net8.0\KashoBogdan_CatFramework.dll
+C:\Users\User\source\repos\Cat\CatLibrary\KashoBogdan_CatApplication\KashoBogdan_CatFramework\obj\Debug\net8.0\refint\KashoBogdan_CatFramework.dll
+C:\Users\User\source\repos\Cat\CatLibrary\KashoBogdan_CatApplication\KashoBogdan_CatFramework\obj\Debug\net8.0\KashoBogdan_CatFramework.pdb
+C:\Users\User\source\repos\Cat\CatLibrary\KashoBogdan_CatApplication\KashoBogdan_CatFramework\obj\Debug\net8.0\ref\KashoBogdan_CatFramework.dll
